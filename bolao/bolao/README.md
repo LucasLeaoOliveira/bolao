@@ -4,7 +4,7 @@
 
 
 ### Aluno: [Lucas Leão Oliveira](https://github.com/LucasLeaoOliveira)
-### Professor: [Abrantes Araújo Silva Filho](https://github.com/otaviolube)
+### Professor: [Otávio Lube Dos Santos](https://github.com/otaviolube)
 
 
 
